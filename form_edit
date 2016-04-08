@@ -3,9 +3,8 @@
 </head>
 <body>
 <form>
-.....
-.....
-.....
+<input type="text"></input>
+<input type="button"></input>
 </form>
 </body>
 </html>
